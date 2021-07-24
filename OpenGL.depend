@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1600699254 source:h:\zzzzzzz\opengl demo\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598692880 h:\zzzzzzz\opengl demo\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1600746746 source:f:\downloads\opengl demo-new\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598692880 f:\downloads\opengl demo-new\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1601475304 source:c:\users\hasnat\downloads\compressed\new folder\opengl demo-update version\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598646080 c:\users\hasnat\downloads\compressed\new folder\opengl demo-update version\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1601531008 source:c:\users\hasnat\downloads\compressed\new folder\opengl demo- 1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598646080 c:\users\hasnat\downloads\compressed\new folder\opengl demo- 1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1601572809 source:c:\users\hasnat\downloads\compressed\new folder\opengl demo- 2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598646080 c:\users\hasnat\downloads\compressed\new folder\opengl demo- 2\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1601621461 source:c:\users\hasnat\downloads\compressed\new folder\opengl demo- 3\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598646080 c:\users\hasnat\downloads\compressed\new folder\opengl demo- 3\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1601641641 source:c:\users\hasnat\downloads\compressed\new folder\opengl demo- step 2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598646080 c:\users\hasnat\downloads\compressed\new folder\opengl demo- step 2\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1601657274 source:c:\users\hasnat\downloads\compressed\new folder\opengl demo- step 1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598646080 c:\users\hasnat\downloads\compressed\new folder\opengl demo- step 1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1601666454 source:c:\users\hasnat\downloads\compressed\new folder\group 4\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598646080 c:\users\hasnat\downloads\compressed\new folder\group 4\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1610732774 source:c:\users\amitr\downloads\compressed\group 4\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598646080 c:\users\amitr\downloads\compressed\group 4\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1610733148 source:c:\users\amitr\downloads\compressed\cse420 project\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598646080 c:\users\amitr\downloads\compressed\cse420 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1610776776 source:c:\users\amitr\onedrive\desktop\cse420 project\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598646080 c:\users\amitr\onedrive\desktop\cse420 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
